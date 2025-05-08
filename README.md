@@ -14,5 +14,5 @@ cd aidetektor_teks
 
 python3 ai_detection_teks.py
 
-#Bug
+# Bug
 sebelum menggunakan tools ini translatein dulu ke bahasa inggris karna terdapat bug di bahasa indonesia
