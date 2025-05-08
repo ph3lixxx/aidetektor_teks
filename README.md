@@ -14,6 +14,8 @@ git clone https://github.com/ph3lixxx/aidetektor_teks
 
 cd aidetektor_teks
 
+pip3 install -r requirements.txt
+
 python3 ai_detection_teks.py
 
 # Bug
