@@ -3,11 +3,11 @@
 ![BLUE Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVuemltZTEzb201bjV6eHB1a2lzbXRuZTExZm02MmFzOW1jMzRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif)
 
 # Fitur
-deteksi buatan ai
+Deteksi buatan ai ✅
 
-deteksi buatan manusia 
+Deteksi buatan manusia ✅
 
-deteksi parafrase otomatis
+Deteksi parafrase otomatis ✅
 
 # Screnshoot
 ![Screenshot_20250508_124418](https://github.com/user-attachments/assets/5e10271b-1b40-430b-b101-0971bab45d91)
