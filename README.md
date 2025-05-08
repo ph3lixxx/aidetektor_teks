@@ -1,0 +1,1 @@
+# aidetektor_teks
