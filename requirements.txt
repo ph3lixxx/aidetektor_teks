@@ -2,3 +2,5 @@ transformers
 openai
 torch
 tokenizer
+match
+difflib
