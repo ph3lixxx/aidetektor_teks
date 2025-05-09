@@ -10,7 +10,6 @@ Deteksi buatan manusia ✅
 Deteksi parafrase otomatis ✅
 
 # Screnshoot
-![Screenshot_20250508_124418](https://github.com/user-attachments/assets/5e10271b-1b40-430b-b101-0971bab45d91)
 
 ![Screenshot_20250508_122647](https://github.com/user-attachments/assets/a34c7ef4-c4bb-4c87-bf61-212246a6b717)
 
